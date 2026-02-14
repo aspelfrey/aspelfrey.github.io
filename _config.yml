@@ -30,9 +30,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  aspelfrey
 
 # Build settings
-remote_theme: chrisrhymes/bulma-clean-theme
+theme: bulma-clean-theme
 plugins:
-  - github-pages
   - jekyll-feed
   - jekyll-spaceship
 
