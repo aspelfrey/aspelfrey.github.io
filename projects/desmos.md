@@ -3,7 +3,7 @@ title: Desmos Activities & Calculators
 layout: page
 show_sidebar: false
 #menubar: desmos_menu
-hero_image: /assets/images/desmos_thumbnails/desmos_calcplot3d.png
+hero_image: /assets/images/desmos_thumbnails/amplify_calcplot3d.png
 hero_darken: true
 ---
 
