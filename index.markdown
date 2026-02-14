@@ -8,8 +8,9 @@ social_media: true
 
 ---
 
-I am a former professor of mathematics looking to transition from academia to industry. 
-I am skilled in developing research questions, collecting and analyzing data, producing insights based on data analysis, and data visualization. As an instructor, I have refined my ability to communicate effectively with technical and non-technical audiences and have excelled in course development and classroom management. I am experienced in running workshops, coordinating teams, conflict resolution, and developing documentation and reports.  I am open to new opportunities (remote or based in the Denver area) that allow me to continue to learn and bring my expertise to a collaborative team.
+I am a former professor of mathematics and current Professional Development Manager at Amplify Education, where I design professional learning for teachers and school leaders serving K–12 schools nationwide. I create actionable PD grounded in best practices in pedagogy and adult learning, supporting thoughtful implementation of educational technology to improve both student outcomes and teacher experiences.
+
+My background in mathematics and research equips me to solve complex, ill-defined problems through scalable solutions and cross-functional collaboration. I’m experienced in exploratory data analysis, producing insights to drive data-based decision-making, and developing comprehensive documentation, reports, and multi-modal resources. I am skilled in data visualization and story-telling with a proven ability to communicate effectively with technical and non-technical audiences. I assess the effectiveness of my work, measure impact, and make informed, data-based decisions that continuously improve learning experiences.
 
 
 
