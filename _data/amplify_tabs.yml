@@ -3,10 +3,10 @@ style: is-boxed
 size: is-medium
 items:
   - name: Favorites
-    link: /projects/desmos/
+    link: /projects/amplify/
   - name: Single Variable Calculus
-    link: /projects/desmos/desmos_single/
+    link: /projects/amplify/amplify_single/
   - name: Multivariable Calculus
-    link: /projects/desmos/desmos_multi/
+    link: /projects/amplify/amplify_multi/
   - name: Statistics
-    link: /projects/desmos/desmos_stats/
+    link: /projects/amplify/amplify_stats/
