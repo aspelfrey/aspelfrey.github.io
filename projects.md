@@ -10,7 +10,7 @@ I developed various 3D printed models for single and multivariable calculus cour
 ## [Case Studies](/projects/case-studies)
 A preview of the case studies and other projects I have worked on can be found on this page.
 
-## [Desmos Activities](/projects/desmos)
+## [Amplify Activities](/projects/amplify)
 I developed activities and calculators using Desmos and CalcPlot3D for various courses at the University of Colorado Boulder and the Colorado School of Mines.
 
 ## [GeoGebra Activities](https://www.geogebra.org/search/athena%20pelfrey)

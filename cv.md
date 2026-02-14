@@ -48,48 +48,64 @@ details > div {
 | B.A. Mathematics                        | May, 2011                      |
 | Graduated cum laude and with honors. Minored in Classical Studies. ||
 
-## Certificates
+## Work Experience
 
-| Google Project Management: Professional Certificate | &nbsp; |
-| :-------------------------------------------------- | -----: |
-| Coursera                                            | Jan, 2024   |
-| Completed six courses on project management, planning, and execution, including the foundations of Agile project management and the Scrum framework, effective communication, and strategic thinking.||
+| Professional Development Design Specialist, Math              | &nbsp; |
+| :------------------------------------------------------ | -----: |
+| Amplify Education Inc.                               | 2023-Present |
+| Remote ||
 
-| Google Data Analytics Professional Certificate | &nbsp; |
-| :--------------------------------------------- | -----: |
-| Coursera                                       | Dec, 2023   |
-| Completed eight courses, developed by Google, on preparing, processing, analyzing, and sharing data for thoughtful action as well as using tools and platforms including spreadsheets, SQL, Tableau, and R.||
+* Delivered exceptional customer results by consistently achieving high performance across core metrics while developing scalable solutions and tailored training that enhanced implementation success for the growing PD demand across a diverse product portfolio. 
+* Created targeted educational resources grounded in adult learning principles – developing PD sessions, print materials, video content,  and online courses,  that support teachers nationwide to successfully implement new curriculum with increased confidence and effectiveness.
+* Strengthened team operational capacity by developing templates, style guides, and tracking systems – including a Notion asset hub and Session trackers – that enhanced collaboration, streamlined resource management, and improved delivery efficiency across the PD Design team. 
 
-| Certificate in College Teaching | &nbsp; |
-| :------------------------------ | -----: |
-| University of Colorado Boulder  | Oct, 2019   |
-| Requirements for this certificate included attending 20 Graduate Teacher Program workshops, a faculty observation, two videotape classroom consultations, two semesters of classroom teaching and preparing a teaching portfolio. ||
 
-## Awards
+| Postdoctoral Teaching Fellow              | &nbsp; |
+| :------------------------------------------------------ | -----: |
+| Colorado School of Mines                               | 2020-2023 |
+| Golden, CO ||
 
-| B. W. Jones Teaching Excellence Award   | &nbsp;|
-| :-------------------------------------- | ----: |
-| University of Colorado Boulder          | 2019  |
-|Given annually to a veteran graduate teaching assistant in recognition of outstanding accomplishments in teaching.||
+* Primary instructor for upper and lower-division undergraduate courses in the Applied Mathematics and Statistics Department. Subjects taught include statistics, calculus, data visualization, and technical writing.
+* Developed highly visual and interactive activities for the online multivariable calculus course.
+* Supervised an undergraduate student with a work-study award to develop 3D models for the Calculus curriculum.
 
-| Benedict Freedman Senior Prize for Outstanding Mathematics Major | &nbsp; |
-| :--------------------------------------------------------------- | -----: |
-| Occidental College                                               | 2011   |
-| Awarded to the graduating senior with the most outstanding record of achievement as a mathematics major.||
 
-## Publications
+| Mathematics Instructor & Graduate Researcher              | &nbsp; |
+| :------------------------------------------------------ | -----: |
+| University of Colorado Boulder                               | 2014-2020 |
+| Boulder, CO ||
+| *Assistant Course Coordinator* ||
 
-G.&nbsp;Deng, E.&nbsp;El&nbsp;Sai, T.&nbsp;Manders, P.&nbsp;Mayr, P.&nbsp;Nakkirt and **A.&nbsp;Sparks**. Sandwiches for promise constraint satisfaction Algebra Universalis, 82:15, Jan 2021.
+* Served as Assistant Course Coordinator to oversee 19-35 instructors and teaching assistants for Calculus I and III courses with 450-630 students. 
+* Created a comprehensive "how-to" guide for future coordinators to document specific job responsibilities, timelines, processes, and resources.
+* Developed and maintained the course website and Canvas learning management system (LMS) for assignments and grading. 
+* Facilitated organizational change by adopting Slack as the primary method of communication for the team and setting the expectations for the new role of course assistant. 
+* Ran weekly meetings with the teaching assistants to provide support and discuss curriculum, pedagogy, and classroom management. 
 
-**A.&nbsp;Sparks**. On the number of clonoids. Algebra Universalis, 80(4):53, Nov 2019.
+| *Graduate Student Representative* ||
 
-B.&nbsp;Ábrego, S.&nbsp;Fernández-Merchant, and **A.&nbsp;Sparks**. The Bipartite-Cylindrical Crossing Number of
-the Complete Bipartite Graph. Graphs and Combinatorics, Sep 2019.
+* Peer-elected to be the Graduate Student Representative on the Mathematics Department Graduate Committee who communicates concerns and resolves conflict between the department faculty and graduate students.
+* Negotiated, formalized, and documented the expectations, including workloads and assignment compensation, for graduate student employees.  
 
-N.&nbsp;C.&nbsp;Parazoo, et al. Interpreting seasonal changes in the carbon balance of southern amazonia using measurements of XCO2 and chlorophyll fluorescence from GOSAT. Geophysical Research Letters, 40(11):2829–2833, 2013.
+| *Undergraduate Instructor* ||
 
-**A.&nbsp;Sparks**, C.&nbsp;Frankenberg, G.&nbsp;Osterman, A.&nbsp;Butz, D.&nbsp;Schepers, J.&nbsp;Landgraf, D.&nbsp;Wunch, G.&nbsp;Toon, P.&nbsp;Wennberg, and TCCON Partners. Proxy methane retrievals from the ACOS project: Initial validation with TCCON and retrieval intercomparison. American Geophysical Union, Fall Meeting 2012, 2012. Abstract ID. A33I-0248.
+* Primary instructor for undergraduate courses. Subjects taught include calculus, probability, statistics, computer computation methods, mathematical modeling, and data visualization.
+* Assisted in writing and subsequent management of an Arts and Sciences Support of Education Through Technology grant for $4,475 to purchase a department 3D printer and develop 3D-printed models for use in the Calculus sequence. 
 
+| *Graduate Researcher* ||
+
+* Conducted independent and collaborative original research in Computability Theory and Universal Algebra published in peer-reviewed journals.
+
+
+| Data Analyst (Academic Part-Time Employee)              | &nbsp; |
+| :------------------------------------------------------ | -----: |
+| Jet Propulsion Laboratory                               | 2010-2014 |
+| California Institute of Technology Pasadena, California ||
+
+ * Collected, analyzed, and presented laboratory energy usage data to inform senior executives’ decision-making regarding compliance with federal greenhouse gas emission regulations.
+ * Provided statistical analyses, data visualizations, and data reports to aid climate scientists in their research.
+ * Developed an SQLite database to manage and process measurements obtained from various atmospheric remote sensing instruments.
+ * Optimized data storage and retrieval processes, enabling efficient analysis and interpretation of critical environmental data within the Global Change and Energy Program.
 
 ## Research Experience
 
@@ -111,19 +127,6 @@ N.&nbsp;C.&nbsp;Parazoo, et al. Interpreting seasonal changes in the carbon bala
 | Department of Mathematics                        ||
 | Research Advisor: Dr.&nbsp;Silvia Fernández-Merchant  ||
 | Determined the crossing number of a cylindrical drawing of a complete bipartite graph. ||
-
-## Work Experience
-
-| Data Analyst (Academic Part-Time Employee)              | &nbsp; |
-| :------------------------------------------------------ | -----: |
-| Jet Propulsion Laboratory                               | 2010-2014 |
-| California Institute of Technology Pasadena, California ||
-
- * Collected, analyzed, and presented laboratory energy usage data to inform senior executives’ decision-making regarding compliance with federal greenhouse gas emission regulations.
- * Provided statistical analyses, data visualizations, and data reports to aid climate scientists in their research.
- * Developed an SQLite database to manage and process measurements obtained from various atmospheric remote sensing instruments.
- * Optimized data storage and retrieval processes, enabling efficient analysis and interpretation of critical environmental data within the Global Change and Energy Program.
-
 ## Teaching Experience
 
 | Teaching Postdoctoral Fellow   | &nbsp;    |
@@ -174,6 +177,47 @@ N.&nbsp;C.&nbsp;Parazoo, et al. Interpreting seasonal changes in the carbon bala
     </ul>
     </div>
 </details>
+## Certificates
+
+| Google Project Management: Professional Certificate | &nbsp; |
+| :-------------------------------------------------- | -----: |
+| Coursera                                            | Jan, 2024   |
+| Completed six courses on project management, planning, and execution, including the foundations of Agile project management and the Scrum framework, effective communication, and strategic thinking.||
+
+| Google Data Analytics Professional Certificate | &nbsp; |
+| :--------------------------------------------- | -----: |
+| Coursera                                       | Dec, 2023   |
+| Completed eight courses, developed by Google, on preparing, processing, analyzing, and sharing data for thoughtful action as well as using tools and platforms including spreadsheets, SQL, Tableau, and R.||
+
+| Certificate in College Teaching | &nbsp; |
+| :------------------------------ | -----: |
+| University of Colorado Boulder  | Oct, 2019   |
+| Requirements for this certificate included attending 20 Graduate Teacher Program workshops, a faculty observation, two videotape classroom consultations, two semesters of classroom teaching and preparing a teaching portfolio. ||
+
+## Awards
+
+| B. W. Jones Teaching Excellence Award   | &nbsp;|
+| :-------------------------------------- | ----: |
+| University of Colorado Boulder          | 2019  |
+|Given annually to a veteran graduate teaching assistant in recognition of outstanding accomplishments in teaching.||
+
+| Benedict Freedman Senior Prize for Outstanding Mathematics Major | &nbsp; |
+| :--------------------------------------------------------------- | -----: |
+| Occidental College                                               | 2011   |
+| Awarded to the graduating senior with the most outstanding record of achievement as a mathematics major.||
+
+## Publications
+
+G.&nbsp;Deng, E.&nbsp;El&nbsp;Sai, T.&nbsp;Manders, P.&nbsp;Mayr, P.&nbsp;Nakkirt and **A.&nbsp;Sparks**. Sandwiches for promise constraint satisfaction Algebra Universalis, 82:15, Jan 2021.
+
+**A.&nbsp;Sparks**. On the number of clonoids. Algebra Universalis, 80(4):53, Nov 2019.
+
+B.&nbsp;Ábrego, S.&nbsp;Fernández-Merchant, and **A.&nbsp;Sparks**. The Bipartite-Cylindrical Crossing Number of
+the Complete Bipartite Graph. Graphs and Combinatorics, Sep 2019.
+
+N.&nbsp;C.&nbsp;Parazoo, et al. Interpreting seasonal changes in the carbon balance of southern amazonia using measurements of XCO2 and chlorophyll fluorescence from GOSAT. Geophysical Research Letters, 40(11):2829–2833, 2013.
+
+**A.&nbsp;Sparks**, C.&nbsp;Frankenberg, G.&nbsp;Osterman, A.&nbsp;Butz, D.&nbsp;Schepers, J.&nbsp;Landgraf, D.&nbsp;Wunch, G.&nbsp;Toon, P.&nbsp;Wennberg, and TCCON Partners. Proxy methane retrievals from the ACOS project: Initial validation with TCCON and retrieval intercomparison. American Geophysical Union, Fall Meeting 2012, 2012. Abstract ID. A33I-0248.
 
 ## Technical Skills
 * Programming: Python, SQL, R, LaTex, HTML, Desmos CL
